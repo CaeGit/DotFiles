@@ -1,0 +1,32 @@
+!urxvt*background:       rgba:0000/0000/0000/cccc
+!URxvt.transparent:   true
+!URxvt.tintColor:     black     
+!URxvt.shading:       20 
+URxvt.geometry: 105x25
+URxvt.font                   :  xft:Tamsyn:pixelsize=13:autohint=true
+URxvt.boldFont               :  xft:Tamsyn:pixelsize=13:autohint=true
+URxvt.scrollBar: false
+
+URxvt.background:               #2A292A
+URxvt.foreground:               #83B8B2
+URxvt.colorBD:                  #CFCFCF
+URxvt.colorUL:                  #969696
+URxvt.colorIT:                  #686868
+
+*color0:  #525252
+*color1:  #BF606B
+*color2:  #BBBB87
+*color3:  #876F6A
+*color4:  #606B6F
+*color5:  #908C9C
+*color6:  #83B8B2
+*color7:  #E8E5DC
+*color8:  #707070 
+*color9:  #8A7885
+*color10: #BFAF72
+*color11: #9F8985
+*color12: #9FA6A8
+*color13: #AAA7B4
+*color14: #83B8B2 
+*color15: #F5F5EB-
+
